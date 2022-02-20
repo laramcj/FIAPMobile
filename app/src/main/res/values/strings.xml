@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LayoutsComplexos</string>
+    <string name="recover_password"><u>Esqueci minha senha</u></string>
+    <string name="create_account"><u>Novo Cadastro</u></string>
+    <string name="user">Nome do Usuário</string>
+    <string name="points">3.200 Pontos</string>
+    <string name="ranking">Você está em primeiro lugar!!</string>
+    <string name="team">Equipe Peralta</string>
+    <string name="item">Foto Reciclagem </string>
+
+</resources>
