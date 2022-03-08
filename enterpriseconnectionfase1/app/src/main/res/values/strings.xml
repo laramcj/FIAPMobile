@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">enterprise-connection-fase1</string>
+
+    <string name="user">Nome do Usuário</string>
+    <string name="points">3.200 Pontos</string>
+    <string name="ranking">Você está em primeiro lugar!!</string>
+    <string name="team">Equipe Peralta</string>
+    <string name="item">Foto Reciclagem </string>
 </resources>
