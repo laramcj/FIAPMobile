@@ -7,13 +7,13 @@ import android.os.Bundle
 import com.google.android.material.floatingactionbutton.FloatingActionButton
 
 class IndexActivity : AppCompatActivity() {
-    var btnSearch : FloatingActionButton? = null
+    var btnTrophy : FloatingActionButton? = null
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_index)
-        btnSearch = findViewById(R.id.btn_search)
-        btnSearch?.setOnClickListener {
+        btnTrophy = findViewById(R.id.btn_trophy)
+        btnTrophy?.setOnClickListener {
             val intent = Intent(this, MainActivity::class.java)
             this.startActivity(intent)
         }
